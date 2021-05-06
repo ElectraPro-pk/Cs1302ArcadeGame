@@ -1,0 +1,21 @@
+MAIN
+=========================================
+https://github.com/cs1302uga/cs1302-omega
+https://github.com/cs1302uga/cs1302-tutorials/blob/master/github-setup.md#setting-up-ssh-keys
+=========================================
+CREDENTIALS
+=========================================
+VPN CISCO MOBILE ANY CONNECT
+_________________________________________
+USER: ss73408 
+PASS: @Sundharesh00 
+2nd PASS: phone
+_________________________________________
+ODIN
+ssh ss73408@uga.edu
+_________________________________________
+GITHUB
+_________________________________________
+USER: Susindhar27 
+PASS: @Sundharesh00
+
